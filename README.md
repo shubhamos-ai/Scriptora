@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="logo (2)" src="https://github.com/user-attachments/assets/724f9942-52e9-4cc1-89aa-f83d48be5e18" />
+<img width="50" height="50" alt="logo (2)" src="https://github.com/user-attachments/assets/724f9942-52e9-4cc1-89aa-f83d48be5e18" />
 
 # 🚀 Scriptora Developer Platform
 
