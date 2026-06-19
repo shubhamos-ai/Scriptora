@@ -1,4 +1,13 @@
-#   Scriptora Developer Platform                              <img width="100" height="100" alt="logo (2)" src="https://github.com/user-attachments/assets/724f9942-52e9-4cc1-89aa-f83d48be5e18" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/724f9942-52e9-4cc1-89aa-f83d48be5e18"
+    alt="Logo"
+    width="140"
+    style="border-radius: 24px; padding: 10px; background: white;"
+  />
+</p>
+
+# 🚀 Scriptora Developer Platform
 
 > **Your own KeyAuth — self-hosted, MongoDB-backed, and built right into Scriptora.**
 > Protect your software behind a login wall in minutes. No database setup, no server management.
