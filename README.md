@@ -5,7 +5,7 @@
     width="140"
     style="border-radius: 24px; padding: 10px; background: white;"
   />
-</p>
+</p>	
 
 # 🚀 Scriptora Developer Platform
 
